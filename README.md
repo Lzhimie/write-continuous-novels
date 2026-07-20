@@ -1,20 +1,25 @@
----
+
 
 <div align="center">
 
-## 🌟 关注作者 / Follow Me
+# 🚀 国内 Token 中转站
+
+## 高速稳定 · 简单易用 · 面向 AI 创作者与开发者
 
 <br>
 
-[![抖音 / bilibili](https://img.shields.io/badge/抖音%20%2F%20bilibili-Lzhimie-111827?style=for-the-badge&logo=bilibili&logoColor=white)](#)
-[![微信公众号](https://img.shields.io/badge/微信公众号-知咩信息库-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+<a href="https://lzhimie.top">
+  <img src="https://img.shields.io/badge/立即访问-lzhimie.top-FF4D4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="国内 Token 中转站">
+</a>
 
 <br>
 <br>
 
-> 让 AI 不再批量灌水，让故事真正连续生长。
+### 🔗 官网地址：<a href="https://lzhimie.top">https://lzhimie.top</a>
 
 </div>
+
+---
 <div align="center">
 
 # 连续小说 / Write Continuous Novels
@@ -139,6 +144,28 @@ write-continuous-novels 不是让 AI 写得更多，而是让 AI 写得更连贯
 作者信息
 
 
+---
+
+<div align="center">
+
+# 🚀 国内 Token 中转站
+
+## 高速稳定 · 简单易用 · 面向 AI 创作者与开发者
+
+<br>
+
+<a href="https://lzhimie.top">
+  <img src="https://img.shields.io/badge/立即访问-lzhimie.top-FF4D4F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="国内 Token 中转站">
+</a>
+
+<br>
+<br>
+
+### 🔗 官网地址：<a href="https://lzhimie.top">https://lzhimie.top</a>
+
+</div>
+
+---
 ---
 
 <div align="center">
