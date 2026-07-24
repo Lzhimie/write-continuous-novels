@@ -1,7 +1,7 @@
 interface:
   display_name: "Continuous Novel Writer"
   short_description: "Write novels chapter by chapter without repetition."
-  default_prompt: "Use $write-continuous-novels to plan and write this novel one chapter at a time, checking continuity and repetition before saving each chapter."
+  default_prompt: "Use $write-continuous-novels to collect the missing theme, style, length, reference-prose, and output-folder requirements; create an outline; then directly write one chapter at a time into separate TXT files, checking recent chapters for continuity and keeping the prose accessible and naturally humorous."
 
 policy:
   allow_implicit_invocation: true
